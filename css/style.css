@@ -2,3 +2,7 @@ body {
     background-image: url("images/flower.png" !important);
     background-color: #cccccc;
    }
+
+   img {
+       border: "1px" !important;
+   }
