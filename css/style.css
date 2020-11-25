@@ -1,8 +1,8 @@
 body {
-    background-image: url("images/flower.png" !important);
-    background-color: #cccccc;
-   }
+    background-image: url("flower.png");
+    height: 100%;
+  }
 
 img {
-       border: "1px" !important;
+       border: line-width: "2px" !important;
    }
